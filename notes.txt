@@ -1,0 +1,6 @@
+1. First run $ npm init
+2. Install sass
+    npm install node-sass --save-dev
+3. Create Folder named sass  => create file named main.scss
+4. Copy and paste css file to main.scss
+5.
